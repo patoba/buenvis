@@ -26,7 +26,9 @@ Posteriormente, se observó una ligera baja en el número de contagios y un aume
 
 La relajación de las medidas, junto con un aparente empuje del gobierno para que la economía repuntara, llevó a que durante los meses de diciembre de 2020 y enero de 2021 —también coincidente con las fiestas de fin de año— se viviera un elevado número de contagios y muertes consecuencia de la enfermedad. Esto llevó a que los sectores minoristas y de servicios no tuvieran actividad durante meses importantes de venta.
 
-Finalmente, pasamos a la última fase de la pandemia —la misma en la que actualmente nos encontramos—. El entorno actual se encuentra determinado por un perseverante temor de que la COVID-19 sigue siendo un riesgo latente para todas las personas, a pesar de los programas de vacunación. 
+Finalmente, pasamos a la última fase de la pandemia —la misma en la que actualmente nos encontramos—. El entorno actual se encuentra determinado por un perseverante temor de que la COVID-19 sigue siendo un riesgo latente para todas las personas, a pesar de los programas de vacunación. Las escuelas comienzan a tener clases presenciales, sin que los alumnos ni gran mayoría de los padres de familia tengan su esquema de vacunación completo. Peor aún, no se sabe con mayor detalle cuál es panorama del estado de vacunación de los diferentes sectores de la población debido a que no existen datos abiertos y transparentes disponibles.
+
+Aún así, las actividades comienzan a regresar a la actividad y, por ello, será fundamental entender las afectaciones que las restricciones a la movilidad y medidas de distanciamiento social han traído a la economía. Solo así, será posible diseñar políticas e implementar mecanismos que ayuden a revertir el impacto. Conocer los efectos de más de un año de confinamiento y las marcas sobre los sectores poblacionales y regiones del país permitirá focalizar la respuesta para recuperar el crecimiento y desarrollo de México.
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~bondi/1.embed" height="525" width="100%"></iframe>
 
