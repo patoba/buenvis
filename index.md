@@ -34,6 +34,71 @@ Aún así, las actividades comienzan a regresar a la actividad y, por ello, ser�
 
 ## Metodología
 
+### Preprocesamiento de datos
+
+Dado que los datos se obtuvieron de fuentes que presentan un buen manejo de datos, no fue necesario verificar ni eliminar duplicados.
+
+#### COVID-19
+
+- Obtención de datos de la página de la Secretaría de Salud
+- Verificación y de-duplicación de registros
+- Agrupamiento por fechas de registro del paciente
+  - Obtención de suma del total de pacientes registrados como enfermos de la COVID-19
+- Eliminación de campos no utilizados durante el análisis
+- Normalización de fechas de registro para empatar dicho campo con las fechas de los demás datos
+
+#### Indicador Global de la Actividad Económica
+
+- Obtención de base de datos de la página del Banco de México
+- Agrupamiento por fechas
+- Segmentación por actividades relevantes
+- Eliminación de campos no utilizados durante el análisis
+- Normalización de registros y emparejamiento con fechas de registro de pacientes de COVID-19
+
+#### Producto Interno Bruto
+
+- Obtención de base de datos de la página del Banco de México
+- Segmentación de base de datos
+  - Base a precios corrientes
+  - Base a precios constantes
+- Agrupamiento por fechas
+- Eliminación de estimadores y campos no utilizados durante el análisis
+- Eliminación de campos vacíos o no disponibles. Perteneciente a periodos donde no se contaba con este registro o índice
+- Normalización de flujos a periodos trimestrales
+
+#### Tipo de cambio USD-MXN
+
+- Descarga de datos de la página del Banco de México
+- Sustitución de campos vacíos mediante promedio de los datos existentes.
+  - Generalmente se utilizó el campo “para solventar obligaciones”
+  - Para los campos correspondientes a días no laborables se utilizó el valor de “para solventar obligaciones”.
+- Normalización de fechas a formato de base de datos COVID-19
+
+#### Venta de autos
+
+- Descarga de datos de la página del INEGI
+- Eliminación de datos no relevantes
+- Fechas anteriores al enfoque del análisis
+- Eliminación de campos: cobertura, marca, modelo, producto estadístico y área geográfica de referencia.
+- Agrupamiento por tipo de vehículo y segmento.
+- Suma de unidades vendidas.
+- Carga al repositorio y programa. 
+
+### Creacion de graficos
+
+#### Frameworks usados
+
+Para visualizar los datos usamos la biblioteca de Python llamada Plotly. Plotly además de ser una biblioteca de programación ofrece más servicios a programadores. Como un servicio llamado Dash que permite construir aplicaciones web analiticas.
+
+Para crear una gráfica en plotly se puede usar plotly express que permite crear gráficos de forma sencilla, rápida pero con desventaja de ser simples. Usando Figure es posible crear gráficos con más propiedades aunque sea un poco más lento su creación. Plotly también permite crear subplots de forma similar a como matplotlib lo hace.
+
+#### Proceso de creacion de graficos
+
+El proceso para realización de gráficas (una vez obtenido de los datos junto con su preprocesamiento) es determinar el tipo de gráfico que vamos a realizar (serie de tiempo, gráfico de barras, mapa) y la cantidad de gráficos que queremos en una misma figura. A partir de ello buscamos la forma de crear dicho gráfico en la documentación de plotly, añadimos las anotaciones correspondientes de los gráficos, y al final subimos la figura creada a chart-studio de plotly lo que nos permite generar un iframe que posteriormente será insertado en la página web. El iframe es un gráfico interactivo que permite que cualquiera pueda visualizar los datos y el usuario tenga interacción con el mismo.
+
+#### Creación del sitio web
+
+El sitio web fue creado con la herramienta de github llamada github pages, la cual permite crear una página web únicamente con markdown. Markdown al estar basado en html, es posible insertar el código de un iframe y funciona a la perfeccion.
 
 
 ## Resultados y discusión
