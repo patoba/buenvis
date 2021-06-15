@@ -109,13 +109,102 @@ Como lo mencionamos en la introducción, el eje de enfoque de nuestro proyecto s
 
 ### Impacto del COVID-19 en el crecimiento económico
 
-En el siguiente grafico se puede apreciar la distribucion del PIB de cada estado de la republica mexicana, podemos observar que la parte del centro, y norteste del pais se encuentra la mayor riqueza del pais
+#### Contexto en torno a la economía previo a la pandemia
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~patoba/11.embed" height="525" width="100%"></iframe>
+Para poder entender a fondo el impacto de la pandemia en la economía mexicana, en particular si realizamos un análisis desde la perspectiva macroeconómica, es fundamental tener presente el contexto bajo el que se ha enfrentado la crisis sanitaria. La magnitud de las afectaciones están directamente relacionadas con el punto de partida y el 2019, no ha sido un año del todo alentador.
 
-El siguiente grafico se puede ver la variacion del PIB por cada trimestre a lo largo de los ultimos años, se puede apreciar que la pandemia a afectado al PIB.
+Durante 2019, el PIB de México decreció un 0.1%. A pesar de la promesa del gobierno federal de mantener el llamado superávit primario, la realidad es que el costo de la deuda interna y externa aumenta conforme se contrae la economía mexicana. Con ello, México se encuentra en circunstancias muy distintas respecto a la crisis global más reciente, la Crisis Financiera del 2008. A pesar del poco margen de maniobra con el que se cuenta, es posible minimizar el impacto del fenómeno global en la economía local.
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~patoba/15.embed" height="525" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~bondi/10.embed" height="525" width="100%"></iframe>
+
+<p style="text-align:center;">Figura 3 — fuente: <a href="banxico.org.mx">Banco de México</a></p>
+
+En la Figura 3, se puede observar que la economía mexicana ya tenía un bajo dinamismo desde principios del año 2018. Precisamente, no hubo crecimiento en dicho par de años, e incluso, se observan trimestre de caídas en el indicador de la actividad económica. Esto es muestra clara de la compleja situación fiscal en la que se encontraba México, mucho antes de siquiera tener que enfrentar los procesos de confinamiento, bajos niveles de producción o consumo y escasez de materias primas.
+
+Con ello, se explica la baja demanda de consumo y escasez de bienes de producción que las empresas en México y el mundo están enfrentando. Las economías más influyentes del planeta han enfatizado en la importancia de dotar a las empresas con garantías para asegurar la supervivencia de las empresas, para mantener equilibrados los niveles de empleo y contar con las herramientas para un crecimiento económico en cuanto disminuyan las medidas sanitarias y distanciamiento social.
+
+En consecuencia, el Banco de México redujo la tasa de interés objetivo en reiteradas ocasiones para buscar impulsar el consumo y aumentar el capital circulante. Sin embargo, especialistas coinciden en que dichas medidas de política monetaria no serán suficientes, dado que el problema de la pandemia se deriva de la economía real. Además, reducir la tasa implica que México sea menos atractivo frente a otras economías y llevaría a una fuga de capitales, aumentando el precio del dólar, en consecuencia, y reduciendo el poder de compra de los mexicanos.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Fecha</th>
+    <th class="tg-0lax">Tasa objetivo</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">01/01/2020</td>
+    <td class="tg-0lax">7.2500</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">13/02/2020</td>
+    <td class="tg-0lax">7.0000</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">20/03/2020</td>
+    <td class="tg-0lax">6.5000</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">21/04/2020</td>
+    <td class="tg-0lax">6.0000</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">14/05/2020</td>
+    <td class="tg-0lax">5.5000</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">25/06/2020</td>
+    <td class="tg-0lax">5.0000</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">14/08/2020</td>
+    <td class="tg-0lax">4.5000</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">25/09/2020</td>
+    <td class="tg-0lax">4.2500</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">12/02/2021</td>
+    <td class="tg-0lax">4.0000</td>
+  </tr>
+</tbody>
+</table>
+
+#### IGAE
+
+Adicionalmente, si uno analiza el comportamiento de los diversos sectores componentes de la economía, es posible observar que la posible recuperación y disminución de la actividad se ha conformado de manera desigual. También, se debe considerar la naturaleza altamente informal de la economía mexicana, especialmente en el sector terciario. En consecuencia, más del 50% de los mexicanos no han podido ni podrán realizar trabajo desde casa, debido a que esto llevaría a que dejaran de percibir ingresos.
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~bondi/12.embed" height="525" width="100%"></iframe>
+
+Según podemos observar en la gráfica anterior, el impacto puede haber sido mayor gracias a que la economía se encontraba en un periodo de estancamiento y mayor fragilidad. Parte, atribuido a las malas decisiones de la administración saliente y la actual. En particular, destaca la cancelación del aeropuerto internacional de la Ciudad de México —una obra que llevaba más de una tercera parte de avance y se encontraba completamente fondeada—.
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~bondi/14.embed" height="525" width="100%"></iframe>
+
+#### Producto Interno Bruto
+
+Igual que el Indicador Global de la Actividad Económica, el Producto Interno Bruto (PIB) muestran comportamientos similares. Aunado al contexto de fragilidad y bajo dinamismo previo al evento provocado por el virus SARS-COV-2, se observa una caída muy pronunciada, incluso antes del inicio del confinamiento. Cabe destacar, que los [indicadores de movilidad][apple mobility] arrojan una disminución de la actividad de tránsito antes del confinamiento oficial. La población se resguardó sabiendo que existía el riesgo de contraer la enfermedad, a pesar de que las autoridades no habían hecho la declaratoria formal de la emergencia sanitaria.
+
+[apple mobility]: https://covid19.apple.com/mobility
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~bondi/16.embed" height="525" width="100%"></iframe>
+
+A continuación, se observa que la “recuperación” ha sido desigual. El sector terciario sigue muy por debajo de los niveles pre-pandemia, gracias a la poca confianza y posibilidades de salir a consumir.
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~bondi/18.embed" height="525" width="100%"></iframe>
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~bondi/20.embed" height="525" width="100%"></iframe>
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~bondi/22.embed" height="525" width="100%"></iframe>
 
 ### Impacto del COVID-19 en el empleo mexicano
 
