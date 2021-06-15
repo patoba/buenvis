@@ -220,7 +220,9 @@ En el siguiente grafico se puede apreciar la distribucion del PIB de cada estado
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~patoba/11.embed" height="525" width="100%"></iframe>
 
-El siguiente grafico se puede ver la variacion del PIB por cada trimestre a lo largo de los ultimos años, se puede apreciar que la pande
+El siguiente grafico se puede ver la variacion del PIB por cada trimestre a lo largo de los ultimos años, se puede apreciar que la pandemia a afectado al PIB.
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~patoba/15.embed" height="525" width="100%"></iframe>
 
 3. Desempleo medido a través de tasas de actividad, informalidad laboral y desempleo
 
