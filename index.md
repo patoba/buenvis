@@ -37,20 +37,26 @@ Aún así, las actividades comienzan a regresar a la actividad y, por ello, ser�
 
 
 ## Resultados y discusión
+
 Como lo mencionamos en la introducción, el eje de enfoque de nuestro proyecto será el analizar el impacto del COVID-19 en dos índices macroeconómicos:
 1. Crecimiento económico medido a través del PIB
 2. Desempleo medido a través de tasas de actividad, informalidad laboral y desempleo
 
 ### Impacto del COVID-19 en el crecimiento económico
 
+
+
 ### Impacto del COVID-19 en el empleo mexicano
+
 Como lo mencionamos en la introducción, el eje de enfoque de nuestro proyecto será el analizar el impacto del COVID-19 en dos índices macroeconómicos:
+
 1. Crecimiento económico medido a través del PIB
 2. Desempleo medido a través de tasas de actividad, informalidad laboral y desempleo
 
 ### Impacto del COVID-19 en el crecimiento económico
 
 ### Impacto del COVID-19 en el empleo mexicano
+
 Uno de los pilares fundamentales de cualquier economía mundial es el empleo de sus ciudadanos. En la sección anterior analizamos lo que fue el impacto del COVID-19 en el crecimiento económico y vimos que uno de los resultados que no deberían sorprender es que la Ciudad de México concentra la mayor cantidad del PIB mexicano. Bueno, ahora entraremos a analizar los resultados encontrados en el empleo mexicano, medidos con base en la Encuesta Nacional de Ocupación y Empleo del INEGI. Los datos que recabamos abarcan desde el 2005, sin embargo, presentamos resultados únicamente de años posteriores al 2008 pues las tasas de actividad económica, desempleo e informalidad no tuvieron cambios drásticos entre 2005 y 2008. 
 
 Una de las primeras gráficas que nos van a dar un panorama del impacto del COVID-19 en la economía mexicana en el empleo es la que se muestra a continuación: 
@@ -58,11 +64,13 @@ Una de las primeras gráficas que nos van a dar un panorama del impacto del COVI
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~nestorivanmo/30.embed" height="525" width="100%"></iframe>
 
 En esta gráfica se muestran las tres principales tasas que miden el empleo:
+
 1. Tasa de actividad económica: mide el porcentaje de población ocupada con respecto a la población económicamente activa mayor a 15 años
 2. Tasa de informalidad: mide el porcentaje de la población ocupada y económicamente activa que tienen como fuente principal de ingreso algo relacionado con un negocio informal
 3. Tasa de desempleo: mide la cantidad de personas no ocupadas dentro del total de población económicamente activa mayor a 15 años
 
 El resultado principal de este análisis tiene como conclusión que tanto la tasa de actividad económica como de informalidad se vieron afectadas de la siguiente manera:
+
 - Tasa de actividad económica pasó del  59%  en marzo del 2020 a un  47%  en abril del 2020. Este periodo de tiempo coincide con la etap de la primer ola de COVID-19
 - Por otro lado, la tasa de informalidad pasó del  55 %  al  47%  de marzo a abril del 2020
 
@@ -86,4 +94,3 @@ Por otro lado, en las cinco gráficas de la izquierda, mostramos la relación qu
 ## Referencias
 
 ### Fuentes de datos
-
