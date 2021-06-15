@@ -10,6 +10,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~nestorivanmo/1.embed" height="525" width="100%"></iframe>
 
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~nestorivanmo/3.embed" height="525" width="100%"></iframe>
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~nestorivanmo/5.embed" height="525" width="100%"></iframe>
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~nestorivanmo/7.embed" height="525" width="100%"></iframe>
+
 ```markdown
 Syntax highlighted code block
 
