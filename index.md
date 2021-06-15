@@ -211,11 +211,6 @@ A continuación, se observa que la “recuperación” ha sido desigual. El sect
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~bondi/22.embed" height="525" width="100%"></iframe>
 
-### Impacto del COVID-19 en el empleo mexicano
-
-Como lo mencionamos en la introducción, el eje de enfoque de nuestro proyecto será el analizar el impacto del COVID-19 en dos índices macroeconómicos:
-
-1. Crecimiento económico medido a través del PIB
 En el siguiente grafico se puede apreciar la distribucion del PIB de cada estado de la republica mexicana, podemos observar que la parte del centro, y norteste del pais se encuentra la mayor riqueza del pais
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~patoba/11.embed" height="525" width="100%"></iframe>
@@ -224,7 +219,12 @@ El siguiente grafico se puede ver la variacion del PIB por cada trimestre a lo l
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~patoba/15.embed" height="525" width="100%"></iframe>
 
-3. Desempleo medido a través de tasas de actividad, informalidad laboral y desempleo
+### Impacto del COVID-19 en el empleo mexicano
+
+Como lo mencionamos en la introducción, el eje de enfoque de nuestro proyecto será el analizar el impacto del COVID-19 en dos índices macroeconómicos:
+
+1. Crecimiento económico medido a través del PIB
+2. Desempleo medido a través de tasas de actividad, informalidad laboral y desempleo
 
 Uno de los pilares fundamentales de cualquier economía mundial es el empleo de sus ciudadanos. En la sección anterior analizamos lo que fue el impacto del COVID-19 en el crecimiento económico y vimos que uno de los resultados que no deberían sorprender es que la Ciudad de México concentra la mayor cantidad del PIB mexicano. Bueno, ahora entraremos a analizar los resultados encontrados en el empleo mexicano, medidos con base en la Encuesta Nacional de Ocupación y Empleo del INEGI. Los datos que recabamos abarcan desde el 2005, sin embargo, presentamos resultados únicamente de años posteriores al 2008 pues las tasas de actividad económica, desempleo e informalidad no tuvieron cambios drásticos entre 2005 y 2008. 
 
