@@ -93,4 +93,6 @@ Por otro lado, en las cinco gráficas de la izquierda, mostramos la relación qu
 
 ## Referencias
 
-### Fuentes de datos
+- Secretaría de Salud. *"Información referente a casos COVID-19 en México"*. Consultado el 12 de junio del 2021 en: https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico
+- Instituto Nacional de Estadística y Geografía. *"Encuesta Nacional de Ocupación y Empleo (ENOE), población de 15 años y más de edad"*. Consultado el 12 de junio del 2021: https://www.inegi.org.mx/programas/enoe/15ymas/
+- Instituto Nacional de Estadística y Geografía. *"Banco de Información Económica (BIE)"*. Consultado el 14 junio del 2021 en: https://www.inegi.org.mx/app/indicadores/?tm=0&t=10200034#D10200034
