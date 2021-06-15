@@ -42,6 +42,13 @@ Como lo mencionamos en la introducción, el eje de enfoque de nuestro proyecto s
 ### Impacto del COVID-19 en el crecimiento económico
 
 ### Impacto del COVID-19 en el empleo mexicano
+Como lo mencionamos en la introducción, el eje de enfoque de nuestro proyecto será el analizar el impacto del COVID-19 en dos índices macroeconómicos:
+1. Crecimiento económico medido a través del PIB
+2. Desempleo medido a través de tasas de actividad, informalidad laboral y desempleo
+
+### Impacto del COVID-19 en el crecimiento económico
+
+### Impacto del COVID-19 en el empleo mexicano
 Uno de los pilares fundamentales de cualquier economía mundial es el empleo de sus ciudadanos. En la sección anterior analizamos lo que fue el impacto del COVID-19 en el crecimiento económico y vimos que uno de los resultados que no deberían sorprender es que la Ciudad de México concentra la mayor cantidad del PIB mexicano. Bueno, ahora entraremos a analizar los resultados encontrados en el empleo mexicano, medidos con base en la Encuesta Nacional de Ocupación y Empleo del INEGI. Los datos que recabamos abarcan desde el 2005, sin embargo, presentamos resultados únicamente de años posteriores al 2008 pues las tasas de actividad económica, desempleo e informalidad no tuvieron cambios drásticos entre 2005 y 2008. 
 
 Una de las primeras gráficas que nos van a dar un panorama del impacto del COVID-19 en la economía mexicana en el empleo es la que se muestra a continuación: 
@@ -54,12 +61,20 @@ En esta gráfica se muestran las tres principales tasas que miden el empleo:
 3. Tasa de desempleo: mide la cantidad de personas no ocupadas dentro del total de población económicamente activa mayor a 15 años
 
 El resultado principal de este análisis tiene como conclusión que tanto la tasa de actividad económica como de informalidad se vieron afectadas de la siguiente manera:
-- Tasa de actividad económica pasó del $59\%$ en marzo del 2020 a un $47\%$ en abril del 2020. Este periodo de tiempo coincide con la etap de la primer ola de COVID-19
-- Por otro lado, la tasa de informalidad pasó del $55\%$ al $47\%$ de marzo a abril del 2020
+- Tasa de actividad económica pasó del  59%  en marzo del 2020 a un  47%  en abril del 2020. Este periodo de tiempo coincide con la etap de la primer ola de COVID-19
+- Por otro lado, la tasa de informalidad pasó del  55 %  al  47%  de marzo a abril del 2020
 
-Esta disminución tan rotunda en estas dos tasas nos indican que el COVID-19 afectó de manera considerable el empleo en México. Observar que la tasa de actividad económica haya disminuido $10$ puntos porcentuales nos habla que aproximadamente $4,300,000$ personas dejaron de producir ingresos. 
+Esta disminución tan rotunda en estas dos tasas nos indican que el COVID-19 afectó de manera considerable el empleo en México. Observar que la tasa de actividad económica haya disminuido 10 puntos porcentuales nos habla que aproximadamente 4,300,000  personas dejaron de producir ingresos. 
 
-Por otro lado, la tasa de desempleo, incrmentó del $2.93\%$ en marzo del 2020 a $4.7\%$ en abril del mismo año. En números concretos, en marzo del 2020 existían $1,686,000$ personas sin trabajo, para abril del 2020, esta cifra se incrementó a $2,123,000$. Este resultado es dramático porque gran parte de los mexicanos trabajan en empleos que se vieron fuertemente afectados por la pandemia, como lo son micronegocios que se vieron obligados a cerrar. 
+Por otro lado, la tasa de desempleo, incrmentó del 2.93% en marzo del 2020 a 4.7%  en abril del mismo año. En números concretos, en marzo del 2020 existían 1,686,000 personas sin trabajo, para abril del 2020, esta cifra se incrementó a 2,123,000. Este resultado es dramático porque gran parte de los mexicanos trabajan en empleos que se vieron fuertemente afectados por la pandemia, como lo son micronegocios que se vieron obligados a cerrar. 
+
+Otro aspecto fundamental que nos ayuda a entender el impacto del COVID-19 en el empleo mexicano es la cantidad de empleadores y distribución de los empleados mexicanos por número de salarios mínimos. Los resultados de este análisis se encuentran en la siguiente gráfica: 
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~nestorivanmo/7.embed" height="525" width="100%"></iframe>
+
+Lo que podemos observar es que la pandemia provocada por el COVID-19 impactó con mayor fuerza a las personas cuyos ingresos por hora equivalen hasta 5 salarios mínimos. Aquellas personas que tienen ingresos mayores a 5 salarios mínimos no vieron afectados sus ingresos radicalmente. De nuevo, esto se presenta porque aproximadamente el 55% de los mexicanos tienen un empleo informal y estos empleos son los que se vieron afectados con mayor fuerza. 
+
+Por otro lado, en las cinco gráficas de la izquierda, mostramos la relación que tienen el número de empleadores a nivel nacional, es decir, personas que son dueños o dueñas de algún negocio (pequeño, mediano y grande), contra los salarios. Lo más contundente a mencionar es que existe una relación directa entre la cantidad de empleadores con la cantida de personas cuyo ingreso es de hasta 2 salarios mínimos. La conclusión directa es que al país le conviene incrementar el número de empleadores para generar más riqueza a nivel nacional. Nuestra estimación es que si se incrementa el número de empleadores, la tasa de informalidad podría disminuir y por ende, meno impacto en la economía de los mexicanos. 
 
 
 ## Conclusiones
