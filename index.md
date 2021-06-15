@@ -1,5 +1,10 @@
 # Impacto del COVID-19 en la economía mexicana
 
+- Barrero Olguín Adolfo Patricio
+- Barriga Rosales Alan
+- Martínez Ostoa Néstor Iván
+- Ramírez Bondi Jorge Alejandro
+
 ## Introducción
 
 Enfrentados al dilema en el que suavizar la curva epidemiológica implica agravar la recesión económica y alargarla, los gobiernos se han visto obligados a implementar medidas económicas contracíclicas para aminorar los efectos de las cuarentenas y el distanciamiento social. Debido al grado de globalización que se ha visto desde principios del siglo XXI, los efectos de las medidas de salud para combatir la pandemia del SARS-COV2 seguramente serán a largo plazo y se acentuarán si no se responde con las medidas adecuadas.
