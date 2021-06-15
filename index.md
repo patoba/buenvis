@@ -97,7 +97,7 @@ Por otro lado, en las cinco gráficas de la izquierda, mostramos la relación qu
 - Retamoza Yocupicio, Ricardo Rodolfo. (2021, abril 15). La otra cara del empleo en México: informalidad y subempleo durante el covid-19. Revista Nexos. Economía y Sociedad. https://economia.nexos.com.mx/la-otra-cara-del-empleo-en-mexico-informalidad-y-subempleo-durante-el-covid-19/
 - Campos Vázquez, R., Esquivel, G. (2020, mayo 6) Niveles y patrones de consumo en la era del COVID-19. Revista Nexos. https://www.nexos.com.mx/?p=48034
 - Esquivel, G. (2020, julio). Los impactos económicos de la pandemia en México. Ciudad de México; Banco de México. https://www.banxico.org.mx/publicaciones-y-prensa/articulos-y-otras-publicaciones/%7BD442A596-6F43-D1B5-6686-64A2CF2F371B%7D.pdf
-- - Secretaría de Salud. *"Información referente a casos COVID-19 en México"*. Consultado el 12 de junio del 2021 en: https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico
+- Secretaría de Salud. *"Información referente a casos COVID-19 en México"*. Consultado el 12 de junio del 2021 en: https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico
 - Instituto Nacional de Estadística y Geografía. *"Encuesta Nacional de Ocupación y Empleo (ENOE), población de 15 años y más de edad"*. Consultado el 12 de junio del 2021: https://www.inegi.org.mx/programas/enoe/15ymas/
 - Instituto Nacional de Estadística y Geografía. *"Banco de Información Económica (BIE)"*. Consultado el 14 junio del 2021 en: https://www.inegi.org.mx/app/indicadores/?tm=0&t=10200034#D10200034
 
