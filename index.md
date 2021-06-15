@@ -162,7 +162,11 @@ Por otro lado, en las cinco gráficas de la izquierda, mostramos la relación qu
 
 
 ## Conclusiones
+El enfoque principal de este artículo fue analizar el impacto del COVID-19 en la economía mexicana, tomando como indicadores principales el crecimiento económico y el desempleo. Uno de los resultados que más nos sorprendió encontrar fue que la primer ola de COVID-19 tuvo un impacto más profundo en la economía a diferencia de la segunda ola de COVID-19 en México. 
 
+Aunado a esto, creemos que nuestro entendimiento para el manejo y presentación de las series de tiempo se incrementó sustancialmente pues fuimoos capaces de presentar gráficas muy sintetizadas que combinan varias presentaciones de una serie de tiempo.
+
+Juntando todos estos elementos y un análisis de varias bases de datos (COVID-19, crecimiento económico, ENOE, INEGI), fuimos capaces de entender con mayor detalle el impacto de la pandemia ante nuestra economía. Si bien México es un país en vías de desarrollo y un referente en latinoamerica, la pandemia tuvo un impacto muy fuerte en la vida de millones de mexicanos y mexicanas. Las gráficas presentadas en este reporte esperamos sirvan como una forma más palpable de entender lo que sucedió en 2020 y sobre todo llamar a la reflexión colectiva sobre las medidas económicas que se deben de realizar en el país para la mejora colectiva.
 
 
 ## Referencias
