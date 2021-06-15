@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="//plotly.com/~nestorivanmo/1.embed" height="800" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~nestorivanmo/1.embed" height="525" width="100%"></iframe>
 
 ```markdown
 Syntax highlighted code block
