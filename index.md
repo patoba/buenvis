@@ -53,7 +53,7 @@ Uno de los pilares fundamentales de cualquier economía mundial es el empleo de 
 
 Una de las primeras gráficas que nos van a dar un panorama del impacto del COVID-19 en la economía mexicana en el empleo es la que se muestra a continuación: 
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~nestorivanmo/5.embed" height="525" width="100%"></iframe>
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~nestorivanmo/30.embed" height="525" width="100%"></iframe>
 
 En esta gráfica se muestran las tres principales tasas que miden el empleo:
 1. Tasa de actividad económica: mide el porcentaje de población ocupada con respecto a la población económicamente activa mayor a 15 años
